@@ -9,3 +9,4 @@ QTools量化工具使用教程:<br>
 8.鼠标滚轮可以放大缩小图标和字体<br>
 9.如果一个工厂组中的性能未完全使用,则它下方的数量标签会标红<br>
 10.如果想返回再计算其他物品,按BackSpace键即可<br>
+下载https://github.com/dsp-mod/QTools/releases/download/v3.2/QTools_3.2.zip
